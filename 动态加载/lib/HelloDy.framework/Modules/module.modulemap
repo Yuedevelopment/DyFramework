@@ -1,0 +1,6 @@
+framework module HelloDy {
+  umbrella header "HelloDy.h"
+
+  export *
+  module * { export * }
+}
